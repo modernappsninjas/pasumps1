@@ -4,7 +4,7 @@ slider:
   bg_image : "images/banner/banner-1.jpg"
   slider_item:
     # slider item loop
-    - title : "ModernApps Ninja Member Page for [ ](https://github.com/pasumps1/)"
+    - title : "ModernApps Ninja Member Page for [Pasumpon S](https://github.com/pasumps1/)"
       content : "Please see below for my ModernApps Ninja Course Records, Certificates, and Contributor Stats"
       animation_in : "left"
       animation_out : "right"
@@ -15,7 +15,7 @@ slider:
         link : "https://lms.modernapps.ninja/register?next=%2F"
 
     # slider item loop
-    - title : "ModernApps Ninja Member Page for [ ](https://github.com/pasumps1/)"
+    - title : "ModernApps Ninja Member Page for [Pasumpon S](https://github.com/pasumps1/)"
       content : "Please see below for my ModernApps Ninja Course Records, Certificates, and Contributor Stats"
       animation_in : "left"
       animation_out : "right"
@@ -26,7 +26,7 @@ slider:
         link : "https://lms.modernapps.ninja/register?next=%2F"
 
     # slider item loop
-    - title : "ModernApps Ninja Member Page for [ ](https://github.com/pasumps1/)"
+    - title : "ModernApps Ninja Member Page for [Pasumpon S](https://github.com/pasumps1/)"
       content : "Please see below for my ModernApps Ninja Course Records, Certificates, and Contributor Stats"
       animation_in : "left"
       animation_out : "right"
